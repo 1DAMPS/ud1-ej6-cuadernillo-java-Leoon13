@@ -1,0 +1,2 @@
+Los válidos serían _curso, Nombre y precioTotal.
+Los no válidos son 2edad y while.
